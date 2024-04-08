@@ -5,28 +5,28 @@ highlightTheme: nord
 theme: black-contrast
 ---
 
-# 🌟 How LLMs can accelerate data science
+# 🌟 How LLMs Can Accelerate Data Science
 
-Eric J. Ma
+[Eric J. Ma](https://ericmjl.github.io/)
 
 Moderna
 
 ---
 
-## LLMs are
+## 🧠 LLMs are
 
-- your most knowledgeable drafting agent
-- prone to mistakes
+- your most knowledgeable drafting agent <!-- .element: class="fragment" -->
+- prone to mistakes <!-- .element: class="fragment" -->
 
-*Trust but verify!*
+*Trust but verify!* <!-- .element: class="fragment" -->
 
 ---
 
-## LLMs enable DS Teams to draft great software
+## ✨ LLMs Enable DS Teams to Draft Great Software
 
 ----
 
-### Draft new code
+### 📝 Draft New Code
 
 ```python
 from sklearn.ensemble import RandomForestRegressor
@@ -36,7 +36,7 @@ from sklearn.ensemble import RandomForestRegressor
 
 ----
 
-### Draft docstrings
+### 📚 Draft Docstrings
 
 ```python
 import pandera as pa
@@ -53,7 +53,7 @@ def preprocess(df: pd.DataFrame):
 
 ----
 
-### Draft tests
+### 🧪 Draft Tests
 
 ```python
 @prompt
@@ -68,11 +68,11 @@ def draft_tests(function_body):
 
 ---
 
-## LLMs gives your data science team superpowers
+## 💪 LLMs Gives Your Data Science Team Superpowers
 
 ----
 
-### Debug stack trace
+### 🔍 Debug Stack Trace
 
 ```python
 @prompt
@@ -87,7 +87,7 @@ def debug(stack_trace):
 
 ----
 
-### Draft long-form documentation
+### 📝 Draft Long-Form Documentation
 
 ```python
 @prompt
@@ -111,7 +111,7 @@ def draft_documentation(
 
 ----
 
-### Draft database queries
+### 🗃️ Draft Database Queries
 
 ```python
 @prompt
@@ -131,7 +131,7 @@ def nl2sql(nl_request, schema):
 
 ----
 
-### Ask questions of code repos
+### ❓ Ask Questions of Code Repos
 
 ```bash
 llamabot repo chat https://github.com/webpro/reveal-md.git \
@@ -140,15 +140,13 @@ llamabot repo chat https://github.com/webpro/reveal-md.git \
 --panel
 ```
 
-*Work in progress, feedback much welcome!*
-
 ----
 
 <!-- .slide: data-background-image="images/llamabot-repo-chat-panel.webp" data-background-size="contain"-->
 
 ----
 
-### Learn a new domain
+### 📚 Learn a New Domain
 
 ```python
 @prompt
@@ -164,7 +162,11 @@ def learn(concept, education_level):
 
 ----
 
-### Add emojis to your talk
+<!-- .slide: data-background-image="images/learn-new-topics.webp" data-background-size="contain" -->
+
+----
+
+### 😃 Add Emojis to Your Talk
 
 ```python
 @prompt
@@ -180,20 +182,21 @@ def add_emojis(talk_md):
 
 ---
 
-## A whole new world
+## 🚀 A Productive New World
 
-- LLMs are
+- LLMs are an insanely great productivity tool. <!-- .element: class="fragment" -->
+- Supercharge your learning and automate the boring stuff. <!-- .element: class="fragment" -->
+
+----
+
+## 🧩 The Hardest Routine Parts of Data Science
+
+1. Taking the time to document our work. <!-- .element: class="fragment" -->
+2. Checking correctness of our work. <!-- .element: class="fragment" -->
+3. Rapidly ramping up into a new knowledge domain. <!-- .element: class="fragment" -->
+
+*LLMs can accelerate all of the above.* <!-- .element: class="fragment" -->
 
 ---
 
-## The hardest routine parts of data science
-
-1. Taking the time to document our work.
-2. Checking correctness of our work.
-3. Rapidly ramping up into a new knowledge domain.
-
-*LLMs can accelerate all of the above.*
-
----
-
-## ⭐️ Thank you
+## ⭐️ Thank You
