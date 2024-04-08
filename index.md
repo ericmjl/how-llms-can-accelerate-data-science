@@ -68,7 +68,7 @@ def draft_tests(function_body):
 
 ---
 
-## LLMs gives your data science team more superpowers
+## LLMs gives your data science team superpowers
 
 ----
 
@@ -134,13 +134,17 @@ def nl2sql(nl_request, schema):
 ### Ask questions of code repos
 
 ```bash
-llamabot repo chat \
---repo-url "https://github.com/ericmjl/llamabot.git" \
---checkout "main" \
---model-name "ollama/mixtral-7b" \
+llamabot repo chat https://github.com/webpro/reveal-md.git \
+--checkout main \
+--model-name gpt-4-0125-preview \
+--panel
 ```
 
 *Work in progress, feedback much welcome!*
+
+----
+
+<!-- .slide: data-background-image="images/llamabot-repo-chat-panel.png" data-background-size="contain"-->
 
 ----
 
