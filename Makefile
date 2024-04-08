@@ -3,8 +3,8 @@
 # Depends on imagemagick
 
 build:
-	reveal-md index.md --static _site --highlight-theme nord
-	reveal-md index.md --print _site/slides.pdf --highlight-theme nord
+	reveal-md index.md --static _site
+	reveal-md index.md --print _site/slides.pdf
 	# make webp version of of each slide
 	mkdir -p _site/webp
 	convert -density 300 _site/slides.pdf -quality 90 _site/webp/slides.png
@@ -14,7 +14,7 @@ build:
 	rm _site/webp/*.png
 
 present:
-	reveal-md index.md --watch --highlight-theme nord
+	reveal-md index.md --watch
 
 clean:
 	rm -rf _site
