@@ -1,6 +1,8 @@
 ---
 revealOptions:
-  transition: 'fade'
+  transition: slide
+highlightTheme: nord
+theme: black-contrast
 ---
 
 # 🌟 How LLMs can accelerate data science
