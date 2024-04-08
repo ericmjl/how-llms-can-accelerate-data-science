@@ -184,7 +184,7 @@ def add_emojis(talk_md):
 
 1. Taking the time to document our work.
 2. Checking correctness of our work.
-3. Learning domain knowledge.
+3. Rapidly ramping up into a new knowledge domain.
 
 *LLMs can accelerate all of the above.*
 
