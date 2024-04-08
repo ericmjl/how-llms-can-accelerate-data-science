@@ -72,6 +72,21 @@ def draft_tests(function_body):
 
 ----
 
+### 📓 Refactor entire notebooks
+
+```python
+@prompt
+def refactor(notebook_json):
+    """Given the following Jupyter notebook code:
+
+    {{ notebook_json }}
+
+    Help me propose a suite of functions that can be refactored out from the notebook.
+    """
+```
+
+----
+
 ### 🔍 Debug Stack Trace
 
 ```python
