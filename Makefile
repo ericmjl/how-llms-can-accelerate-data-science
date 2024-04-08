@@ -9,7 +9,7 @@ build:
 	mkdir -p _site/webp
 	convert -density 300 _site/slides.pdf -quality 90 _site/webp/slides.png
 	for f in _site/webp/*.png; do \
-		convert $$f -quality 90 $${f%.png}.webp; \
+		convert $$f -quality 100 $${f%.png}.webp; \
 	done
 	rm _site/webp/*.png
 
