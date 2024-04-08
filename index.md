@@ -144,7 +144,7 @@ llamabot repo chat https://github.com/webpro/reveal-md.git \
 
 ----
 
-<!-- .slide: data-background-image="images/llamabot-repo-chat-panel.png" data-background-size="contain"-->
+<!-- .slide: data-background-image="images/llamabot-repo-chat-panel.webp" data-background-size="contain"-->
 
 ----
 
