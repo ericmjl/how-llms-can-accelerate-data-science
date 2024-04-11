@@ -81,7 +81,8 @@ def refactor(notebook_json):
 
     {{ notebook_json }}
 
-    Help me propose a suite of functions that can be refactored out from the notebook.
+    Help me propose a suite of functions
+    that can be refactored out from the notebook.
     """
 ```
 
