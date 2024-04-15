@@ -42,11 +42,11 @@ Senior Principal Data Scientist, Moderna
 
 ---
 
-## Two threads
+## 2️⃣ 🧵
 
 ---
 
-## Thread 1: LLMs are incredibly empowering
+## 🧵 Thread 1️⃣: LLMs are incredibly empowering
 
 ----
 
@@ -67,29 +67,29 @@ Senior Principal Data Scientist, Moderna
 
 ---
 
-## Thread 2: Data science necessarily involves writing software
+## 🧵 Thread 2️⃣: Data science necessarily involves writing software
 
 ----
 
-### Data science requires coding
+### 📈 Data science requires coding
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cpbtcsGE0OA?si=EkKmZ_yWEpO0S9Hs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ----
 
-### Coding requires software skills
+### 🧑‍💻 Coding requires software skills
 
 [![Data Science Software Skills](images/data-science-software-skills.webp)](https://ericmjl.github.io/blog/2024/4/5/how-to-grow-software-development-skills-in-a-data-science-team/)
 
 ----
 
-### Software skills can be grown
+### 🖥️ Software skills can be grown
 
 <a href="https://ericmjl.github.io/data-science-bootstrap-notes/get-bootstrapped-on-your-data-science-projects/"><img src="https://d2sofvawe08yqg.cloudfront.net/dsbootstrap/s_hero2x?1699773090" alt="Data Science Bootstrap Notes" class="responsive-image"></a>
 
 ---
 
-## Two Threads (recap)
+## 2️⃣ 🧵 (recap)
 
 - LLMs are incredibly empowering
 - Data science necessarily involves writing software
@@ -205,6 +205,32 @@ Check out the Diataxis framework [here](https://diataxis.fr)!
 
 ----
 
+## ✍️ Write commit messages
+
+```text
+commit 5ffff99bae4611bdcea09187d839e5b40b9ef630
+Author: Eric Ma <ericmajinglong@gmail.com>
+Date:   Mon Apr 15 15:55:18 2024 -0400
+
+    feat(index): update professional title and add about sections
+
+    - Update the professional title to
+      "Senior Principal Data Scientist" at Moderna.
+    - Add a humorous "About me" section
+      with claims of GPT-4 prompt engineering experience,
+      telepathy, and time-traveling emails.
+    - Introduce a more serious "About me (take 2)" section
+      detailing roles and expertise.
+    - Highlight involvement in Generative AI at Moderna,
+      emphasizing democratized access to GPT,
+      community building through an internal academy,
+      and the development of citizen-generated use cases.
+```
+
+Commit messages are a form of documentation!
+
+----
+
 ### 🗃️ Draft Database Queries
 
 ```python
@@ -303,3 +329,4 @@ def add_emojis(talk_md):
 - [Survey of LLM tooling](https://ericmjl.github.io/blog/2024/2/1/an-incomplete-and-opinionated-survey-of-llm-tooling/)
 - [Organize and motivate a DS team](https://ericmjl.github.io/blog/2024/3/23/how-to-organize-and-motivate-a-biotech-data-science-team/)
 - [Keep technically sharp as a DS team lead](https://ericmjl.github.io/blog/2024/2/25/how-to-keep-sharp-with-technical-skills-as-a-data-science-team-lead/)
+- Data Science Bootstrap Notes [website](https://ericmjl.github.io/data-science-bootstrap-notes/get-bootstrapped-on-your-data-science-projects/) and [ebook](https://leanpub.com/dsbootstrap/)
