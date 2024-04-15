@@ -9,7 +9,35 @@ theme: black-contrast
 
 [Eric J. Ma](https://ericmjl.github.io/)
 
-Moderna
+Senior Principal Data Scientist, Moderna
+
+---
+
+## 💁 About me
+
+- 7 years of GPT-4 prompt engineering experience. <!-- .element: class="fragment" -->
+- Proficient in telepathy, can communicate with future technologies. <!-- .element: class="fragment" -->
+- Proficient in sending time-traveling emails. <!-- .element: class="fragment" -->
+
+*I jest 😇.*
+
+---
+
+## 💁 About me (take 2)
+
+> "Sr. Principal Data Scientist, DSAI (Research)"
+
+- *Sr. Principal*: Data scientist and team lead <!-- .element: class="fragment" -->
+- *DSAI*: Computer nerd <!-- .element: class="fragment" -->
+- *Research*: Science nerd <!-- .element: class="fragment" -->
+
+---
+
+## 🤖 Generative AI @ Moderna
+
+- Fully embraced with democratized access to GPT.
+- Internal academy builds community.
+- Flowering of use citizen-generated use cases.
 
 ---
 
