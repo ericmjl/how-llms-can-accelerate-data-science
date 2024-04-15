@@ -3,6 +3,7 @@ revealOptions:
   transition: slide
 highlightTheme: nord
 theme: black-contrast
+css: css/custom.css
 ---
 
 # 🌟 How LLMs Can Accelerate Data Science
@@ -11,42 +12,87 @@ theme: black-contrast
 
 Senior Principal Data Scientist, Moderna
 
+`ericmjl.github.io/how-llms-can-accelerate-data-science/`
+
 ---
 
-## 💁 About me
+## 💁🏻‍♂️ About me
 
 - 7 years of GPT-4 prompt engineering experience. <!-- .element: class="fragment" -->
 - Proficient in telepathy, can communicate with future technologies. <!-- .element: class="fragment" -->
 - Proficient in sending time-traveling emails. <!-- .element: class="fragment" -->
 
-*I jest 😇.*
+*I jest* <!-- .element: class="fragment" -->
 
 ---
 
-## 💁 About me (take 2)
+## 💁🏻‍♂️ About me (take 2)
 
-> "Sr. Principal Data Scientist, DSAI (Research)"
+> "Sr. Principal Data Scientist, DSAI (Research) @  Moderna"
 
-- *Sr. Principal*: Data scientist and team lead <!-- .element: class="fragment" -->
-- *DSAI*: Computer nerd <!-- .element: class="fragment" -->
-- *Research*: Science nerd <!-- .element: class="fragment" -->
-
----
-
-## 🤖 Generative AI @ Moderna
-
-- Fully embraced with democratized access to GPT.
-- Internal academy builds community.
-- Flowering of use citizen-generated use cases.
+- Sr. Principal: Data science team lead <!-- .element: class="fragment" -->
+- DSAI: Computer nerd <!-- .element: class="fragment" -->
+- Research: Science nerd <!-- .element: class="fragment" -->
 
 ---
 
-## 🧠 LLMs are
+## Our team exists to...
+
+> ...make science run at the speed of thought and quantify the previously unquantified.
+
+---
+
+## Two threads
+
+---
+
+## Thread 1: LLMs are incredibly empowering
+
+----
+
+### 🤖 Generative AI @ Moderna
+
+- Fully embraced with democratized access to GPT4-128K. <!-- .element: class="fragment" -->
+- Internal academy builds community. <!-- .element: class="fragment" -->
+- Flowering of use citizen-generated use cases. <!-- .element: class="fragment" -->
+
+----
+
+### 🧠 LLMs are
 
 - your most knowledgeable drafting agent <!-- .element: class="fragment" -->
 - prone to mistakes <!-- .element: class="fragment" -->
 
 *Trust but verify!* <!-- .element: class="fragment" -->
+
+---
+
+## Thread 2: Data science necessarily involves writing software
+
+----
+
+### Data science requires coding
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cpbtcsGE0OA?si=EkKmZ_yWEpO0S9Hs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+----
+
+### Coding requires software skills
+
+[![Data Science Software Skills](images/data-science-software-skills.webp)](https://ericmjl.github.io/blog/2024/4/5/how-to-grow-software-development-skills-in-a-data-science-team/)
+
+----
+
+### Software skills can be grown
+
+<a href="https://ericmjl.github.io/data-science-bootstrap-notes/get-bootstrapped-on-your-data-science-projects/"><img src="https://d2sofvawe08yqg.cloudfront.net/dsbootstrap/s_hero2x?1699773090" alt="Data Science Bootstrap Notes" class="responsive-image"></a>
+
+---
+
+## Two Threads (recap)
+
+- LLMs are incredibly empowering
+- Data science necessarily involves writing software
 
 ---
 
@@ -125,7 +171,9 @@ def debug(stack_trace):
 
     {{ stack_trace }}
 
-    Help me debug what's going on here.
+    Help me debug what's going on here
+    by proposing hypotheses as to why
+    I am encountering this error.
     """
 ```
 
@@ -148,10 +196,12 @@ def draft_documentation(
 
     {{ diataxis_spec }}
 
-    Please write for me the {{ documentation_type }} using
+    Please draft for me the {{ documentation_type }} using
     the transcript as source material.
     """
 ```
+
+Check out the Diataxis framework [here](https://diataxis.fr)!
 
 ----
 
@@ -224,13 +274,6 @@ def add_emojis(talk_md):
     """
 ```
 
----
-
-## 🚀 A Productive New World
-
-- LLMs are an insanely great productivity tool. <!-- .element: class="fragment" -->
-- Supercharge your learning and automate the boring stuff. <!-- .element: class="fragment" -->
-
 ----
 
 ## 🧩 The Hardest Routine Parts of Data Science
@@ -240,6 +283,13 @@ def add_emojis(talk_md):
 3. Rapidly ramping up into a new knowledge domain. <!-- .element: class="fragment" -->
 
 *LLMs can accelerate all of the above.* <!-- .element: class="fragment" -->
+
+---
+
+## 🚀 A Productive New World
+
+- LLMs are an insanely great productivity tool. <!-- .element: class="fragment" -->
+- Supercharge your learning and automate the boring stuff. <!-- .element: class="fragment" -->
 
 ---
 
