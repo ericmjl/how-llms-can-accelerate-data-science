@@ -212,7 +212,8 @@ commit 5ffff99bae4611bdcea09187d839e5b40b9ef630
 Author: Eric Ma <ericmajinglong@gmail.com>
 Date:   Mon Apr 15 15:55:18 2024 -0400
 
-    feat(index): update professional title and add about sections
+    feat(index): update professional title
+    and add about sections
 
     - Update the professional title to
       "Senior Principal Data Scientist" at Moderna.
@@ -227,7 +228,15 @@ Date:   Mon Apr 15 15:55:18 2024 -0400
       and the development of citizen-generated use cases.
 ```
 
-Commit messages are a form of documentation!
+----
+
+## ✍️ If you want the tool...
+
+```bash
+pip install -U llamabot
+llamabot git install-commit-message-hook
+# Ensure you have an OpenAI API Key
+```
 
 ----
 
