@@ -34,7 +34,7 @@ css: css/custom.css
 
 ---
 
-## Our team exists to...
+## 🚀 Our team exists to...
 
 > ...make discovery science run at the speed of thought and to quantify the previously unquantified.
 
@@ -331,10 +331,6 @@ def add_emojis(talk_md):
 
 ---
 
-## ⭐️ Thank You
-
----
-
 ## 🤔 Select reading
 
 - [Grow DS team software development skills](https://ericmjl.github.io/blog/2024/4/5/how-to-grow-software-development-skills-in-a-data-science-team/)
@@ -342,3 +338,7 @@ def add_emojis(talk_md):
 - [Organize and motivate a DS team](https://ericmjl.github.io/blog/2024/3/23/how-to-organize-and-motivate-a-biotech-data-science-team/)
 - [Keep technically sharp as a DS team lead](https://ericmjl.github.io/blog/2024/2/25/how-to-keep-sharp-with-technical-skills-as-a-data-science-team-lead/)
 - Data Science Bootstrap Notes [website](https://ericmjl.github.io/data-science-bootstrap-notes/get-bootstrapped-on-your-data-science-projects/) and [ebook](https://leanpub.com/dsbootstrap/)
+
+---
+
+## ⭐️ Thank You
