@@ -102,9 +102,13 @@ css: css/custom.css
 
 ```python
 from sklearn.ensemble import RandomForestRegressor
+import pandas as pd
 
-# Copilot will usually successfully autocomplete from here
+# Read the file `data.csv` and create a Random Forest regressor model
+# to predict `output` from the rest of the columns.
 ```
+
+The more specific, the better the LLM response.
 
 ----
 
