@@ -10,8 +10,6 @@ css: css/custom.css
 
 [Eric J. Ma](https://ericmjl.github.io/)
 
-Senior Principal Data Scientist, Moderna
-
 `ericmjl.github.io/how-llms-can-accelerate-data-science/`
 
 ---
@@ -30,7 +28,7 @@ Senior Principal Data Scientist, Moderna
 
 > "Sr. Principal Data Scientist, DSAI (Research) @  Moderna"
 
-- Sr. Principal: Data science team lead <!-- .element: class="fragment" -->
+- Sr. Principal Data Scientist: Data science team lead <!-- .element: class="fragment" -->
 - DSAI: Computer nerd <!-- .element: class="fragment" -->
 - Research: Science nerd <!-- .element: class="fragment" -->
 
@@ -38,7 +36,7 @@ Senior Principal Data Scientist, Moderna
 
 ## Our team exists to...
 
-> ...make science run at the speed of thought and quantify the previously unquantified.
+> ...make discovery science run at the speed of thought and to quantify the previously unquantified.
 
 ---
 
