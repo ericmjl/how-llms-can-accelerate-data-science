@@ -4,9 +4,10 @@ revealOptions:
 highlightTheme: nord
 theme: black-contrast
 css: css/custom.css
+title: 🌟 How LLMs Can Accelerate Data Science
 ---
 
-# 🌟 How LLMs Can Accelerate Data Science
+## 🌟 How LLMs Can Accelerate Data Science
 
 [Eric J. Ma](https://ericmjl.github.io/)
 
