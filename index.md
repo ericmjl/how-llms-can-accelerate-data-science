@@ -104,8 +104,9 @@ css: css/custom.css
 from sklearn.ensemble import RandomForestRegressor
 import pandas as pd
 
-# Read the file `data.csv` and create a Random Forest regressor model
-# to predict `output` from the rest of the columns.
+# Read the file `data.csv` and create a Random Forest
+# regressor model to predict `output` from the rest
+# of the columns.
 ```
 
 The more specific, the better the LLM response.
