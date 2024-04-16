@@ -1,0 +1,4 @@
+.responsive-image {
+    max-height: 40vh; /* 70% of the viewport height */
+    width: 30vw; /* make width responsive */
+}
